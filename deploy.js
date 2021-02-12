@@ -4,7 +4,7 @@ const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
     'mnemonic',
-    'https://rinkeby.infura.io/v3/ee4172f839464ce8a9131fbeb7076929'
+    'https://rinkeby.infura.io/v3/myprojectkey'
 );
 
 const web3 = new Web3(provider);
