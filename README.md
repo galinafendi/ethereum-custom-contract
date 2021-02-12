@@ -1,2 +1,2 @@
 # ethereum-custom-contract
-Custom Ethereum Smart Contract
+Go to master branch
